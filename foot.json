@@ -1,0 +1,40 @@
+{
+  "joueurs": [
+    {
+      "nom": "Lionel Messi",
+      "equipe": "Paris Saint-Germain",
+      "poste": "Attaquant"
+    },
+    {
+      "nom": "Cristiano Ronaldo",
+      "equipe": "Manchester United",
+      "poste": "Attaquant"
+    }
+  ],
+  "clubs": [
+    {
+      "nom": "Real Madrid",
+      "pays": "Espagne",
+      "entraineur": "Carlo Ancelotti"
+    },
+    {
+      "nom": "Liverpool FC",
+      "pays": "Angleterre",
+      "entraineur": "Jürgen Klopp"
+    }
+  ],
+  "competitions": [
+    {
+      "nom": "Ligue des Champions",
+      "pays": "Europe",
+      "vainqueur": "Chelsea FC",
+      "annee": 2021
+    },
+    {
+      "nom": "Copa America",
+      "pays": "Amérique du Sud",
+      "vainqueur": "Argentine",
+      "annee": 2021
+    }
+  ]
+}
